@@ -1,4 +1,5 @@
-# next-word-prediction
+# Next Word Prediction using Tensorflow
+
 This project is one of the basic one where I use the LSTM and some NLP techniques to make the model for predicting the next word
 
 ## Step 1: Building the dataset for Next Word Prediction model
