@@ -8,7 +8,7 @@ Three datasets that are used and made into one large dataset are,
 2. 20 Newsgroups dataset [Kaggle link](https://www.kaggle.com/datasets/crawford/20-newsgroups?select=talk.politics.misc.txt).
 3. IMDB dataset [Kaggle link](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews).
 
-Run to the `combine_datasets.py` file to perform this task. To see the experiment where I tried out some methods to come up with the whole code, refer to `experiment_combile_code.ipyb` file.
+Run to the `combine_datasets.py` file to perform this task. To see the experiment where I tried out some methods to come up with the whole code, refer to `experiment_combile_datasets.ipyb` file.
 
 ## Step 2: Using the dataset as tensorflow dataset and tokenizing it
 We will use some techniques in tensorflow and speed up the training process with the help of tensorflow datasets.
